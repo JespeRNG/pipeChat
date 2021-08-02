@@ -1,0 +1,12 @@
+D:\csharp_projects\Chat\Chat\Chat.BLL\bin\Debug\Chat.BLL.dll
+D:\csharp_projects\Chat\Chat\Chat.BLL\bin\Debug\Chat.BLL.pdb
+D:\csharp_projects\Chat\Chat\Chat.BLL\bin\Debug\Chat.DAL.dll
+D:\csharp_projects\Chat\Chat\Chat.BLL\bin\Debug\EntityFramework.dll
+D:\csharp_projects\Chat\Chat\Chat.BLL\bin\Debug\Chat.DAL.pdb
+D:\csharp_projects\Chat\Chat\Chat.BLL\bin\Debug\Chat.DAL.dll.config
+D:\csharp_projects\Chat\Chat\Chat.BLL\bin\Debug\EntityFramework.xml
+D:\csharp_projects\Chat\Chat\Chat.BLL\obj\Debug\Chat.BLL.csprojAssemblyReference.cache
+D:\csharp_projects\Chat\Chat\Chat.BLL\obj\Debug\Chat.BLL.csproj.CoreCompileInputs.cache
+D:\csharp_projects\Chat\Chat\Chat.BLL\obj\Debug\Chat.BLL.csproj.CopyComplete
+D:\csharp_projects\Chat\Chat\Chat.BLL\obj\Debug\Chat.BLL.dll
+D:\csharp_projects\Chat\Chat\Chat.BLL\obj\Debug\Chat.BLL.pdb

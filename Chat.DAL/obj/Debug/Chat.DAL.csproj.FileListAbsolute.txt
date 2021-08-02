@@ -1,0 +1,12 @@
+D:\csharp_projects\Chat\Chat\Chat.DAL\bin\Debug\Chat.DAL.dll.config
+D:\csharp_projects\Chat\Chat\Chat.DAL\bin\Debug\Chat.DAL.dll
+D:\csharp_projects\Chat\Chat\Chat.DAL\bin\Debug\Chat.DAL.pdb
+D:\csharp_projects\Chat\Chat\Chat.DAL\bin\Debug\EntityFramework.dll
+D:\csharp_projects\Chat\Chat\Chat.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\csharp_projects\Chat\Chat\Chat.DAL\bin\Debug\EntityFramework.xml
+D:\csharp_projects\Chat\Chat\Chat.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\csharp_projects\Chat\Chat\Chat.DAL\obj\Debug\Chat.DAL.csprojAssemblyReference.cache
+D:\csharp_projects\Chat\Chat\Chat.DAL\obj\Debug\Chat.DAL.csproj.CoreCompileInputs.cache
+D:\csharp_projects\Chat\Chat\Chat.DAL\obj\Debug\Chat.DAL.csproj.CopyComplete
+D:\csharp_projects\Chat\Chat\Chat.DAL\obj\Debug\Chat.DAL.dll
+D:\csharp_projects\Chat\Chat\Chat.DAL\obj\Debug\Chat.DAL.pdb

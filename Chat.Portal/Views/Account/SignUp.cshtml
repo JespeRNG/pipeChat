@@ -1,0 +1,26 @@
+﻿@using System.Web.UI.WebControls
+@model Chat.Portal.Models.SignUpModel
+@{ ViewBag.Title = "Sign Up"; }
+
+<h2>Sign Up</h2>
+
+@using (Html.BeginForm())
+{
+    <input type="hidden" name="returnUrl" value="@ViewBag.returnUrl" />
+    @Html.ValidationSummary()
+    <div class="form-group">
+        <label>eMail</label>
+        @Html.TextBoxFor(x => x.Email)
+        <label>Username</label>
+        @Html.TextBoxFor(x => x.Username)
+        <label>Password</label>
+        @Html.PasswordFor(x => x.Password)
+        <label>Re-enter Password</label>
+        @Html.PasswordFor(x => x.RePassword)
+        <label>First Name</label>
+        @Html.TextBoxFor(x => x.FirstName)
+        <label>Last Name</label>
+        @Html.TextBoxFor(x => x.LastName)
+    </div>
+    <button class="btn btn-primary" type="submit">Sign Up</button>
+}
